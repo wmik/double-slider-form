@@ -1,7 +1,7 @@
 {
-  "name": "new",
+  "name": "double-slider-form",
   "version": "1.0.0",
-  "description": "",
+  "description": "Form transition using slider animation build with react",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
